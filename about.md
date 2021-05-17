@@ -12,7 +12,7 @@ Caso tenha chegado até aqui, saiba que tenho grande consideração por você.
 
 Em resumo, criei este ambiente com o objetivo de reunir alguns dos meus projetos pessoais, além de qualquer coisa que eu queria compartilhar, como textos, jogos, livros, músicas, entre outros. 
 
-Sobre isso, algumas considerações:
+Sobre isso, algumas ponderações:
 
 ***
 
