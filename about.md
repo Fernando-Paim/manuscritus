@@ -28,13 +28,13 @@ Sobre isso, algumas ponderações:
 
 > Apesar de suas limitações, é perfeito para a ocasião.
 
-> Observe que este site é possui como fonte um repositório público no GitHub, isso significa que não há nada para esconder. Não há dados privilegiados ou áreas restritas, tudo está disponível para quem quiser ver. Assim, sinta-se livre para contribuir com o projeto na Wiki. 
+> Observe que este site possui como fonte um repositório público no GitHub, isso significa que não há nada para esconder. Não há dados privilegiados ou áreas restritas, tudo está disponível para quem quiser ver. Assim, sinta-se livre para contribuir com o projeto na Wiki. 
 
 ***
 
 ## Quem o acessa?
 
-> Lembre-se que você é livre para ler ou não as postagens. Apesar de parecer algo óbvio, porém considere que nem sempre isso é uma opção nos nossos tempos.
+> Lembre-se que você é livre para ler ou não as postagens. Apesar de parecer algo óbvio, considere que nem sempre isso é uma opção nos nossos tempos.
 
 ***
 >
