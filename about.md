@@ -26,7 +26,7 @@ Sobre isso, algumas considerações:
 
 >  O [GitHub Pages][1] é um serviço de hospedagem de site estático que usa arquivos de um repositório criado pelo GitHub. Com isso, pode-se criar páginas simples como um currículo. Ainda, é possível gerar um site mais complexo com o [Jekyll][2].
 
-> Apesar de suas limitações, é perfeito para a ocasição.
+> Apesar de suas limitações, é perfeito para a ocasião.
 
 > Observe que este site é possui como fonte um repositório público no GitHub, isso significa que não há nada para esconder. Não há dados privilegiados ou áreas restritas, tudo está disponível para quem quiser ver. Assim, sinta-se livre para contribuir com o projeto na Wiki. 
 
