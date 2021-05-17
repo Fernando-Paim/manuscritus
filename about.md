@@ -48,4 +48,4 @@ Por fim, deixo alguns dos meus contatos:
 
 [1]: https://pages.github.com "GitHub Pages"
 [2]: https://docs.github.com/pt/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll "Jekyll"
-[3]: https://steamcommunity.com/id/fernandop/ "Perfil da Steam"
+[3]: https://steamcommunity.com/id/fernandop9986/ "Perfil da Steam"
