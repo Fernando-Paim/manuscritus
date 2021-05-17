@@ -42,11 +42,10 @@ Sobre isso, algumas considerações:
 Por fim, deixo alguns dos meus contatos:
 
 
-![Discord](/assets/discord.png){:height="36px" width="36px"}.
+![Discord](/assets/discord.png){:height="36px" width="36px"} @Fernando P.#9986
 
-@Fernando P.#9986
-
-![Steam](/assets/steam.png){:height="36px" width="36px"}.
+![Steam](/assets/steam.png){:height="36px" width="36px"} [Fernando P.][3]
 
 [1]: https://pages.github.com "GitHub Pages"
 [2]: https://docs.github.com/pt/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll "Jekyll"
+[3]: https://steamcommunity.com/id/fernandop/ "Perfil da Steam"
