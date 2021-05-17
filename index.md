@@ -4,6 +4,7 @@ layout: home
 permalink: /
 ---
 
-<center><h1>𝚖 𝚊 𝚗 𝚞 𝚜 𝚌 𝚛 𝚒 𝚝 𝚞 𝚜</h1></center>
-<br />
-<p>Seja bem-vindo!</p>
+# m a n u s c r i t u s
+> Seja bem-vindo!
+
+![texto](https://www.bambui.ifmg.edu.br/portal_padrao_joomla/joomla/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png)
