@@ -42,11 +42,11 @@ Sobre isso, algumas considerações:
 Por fim, deixo alguns dos meus contatos:
 
 
-![Discord](/assets/discord.png) 
+![Discord](/assets/discord.png){:height="36px" width="36px"}.
 
 @Fernando P.#9986
 
-![Steam](/assets/steam.png) 
+![Steam](/assets/steam.png){:height="36px" width="36px"}.
 
 [1]: https://pages.github.com "GitHub Pages"
 [2]: https://docs.github.com/pt/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll "Jekyll"
